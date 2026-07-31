@@ -11,7 +11,7 @@ GPG Key: <a href="https://keys.openpgp.org/search?q=0B01D4386F00EBA64445F5B3294C
 </p>
 
 <p align="center">
-  <a href="https://manrs.org/participants/019eccd4-bc10-7661-84f8-c6b3411dfc19" target="_blank" rel="noopener">
+  <a href="https://manrs.org/participant/019eccd4-bc10-7661-84f8-c6b3411dfc19/" target="_blank" rel="noopener">
     <img src="https://observatory.manrs.org/api/v2/participants/019eccd4-bc10-7661-84f8-c6b3411dfc19/badge?layout=card&style=dark" alt="MANRS Participant" height="80"/>
   </a>
 </p>
